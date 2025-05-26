@@ -1,0 +1,7 @@
+Texture CrateTexture resources/crate/diffuse.png
+
+Model CrateModel resources/crate/crate.obj
+
+Entity crate1 texture CrateTexture model CrateModel x 6 y 0.4 z 0 rx 0 ry 0 rz -3
+Entity crate2 texture CrateTexture model CrateModel x 6 y -0.4 z 0 rx 0 ry 0 rz 96
+Entity crate3 texture CrateTexture model CrateModel x 5.97 y 0.05 z 0.7 rx 0 ry 0 rz -2
